@@ -12,6 +12,12 @@ using System.Data.SqlClient;
 using System.Configuration;
 using ClassLibrary1;
 
+/*
+User:[1]admin,[2]Cham,[3]Saul,[4]Liss
+
+Password: [1]admin, [2]qwerty, [3]qwerty18,[4]teamo 
+*/
+
 namespace Login
 {
     public partial class LoginPrincipal : Form
